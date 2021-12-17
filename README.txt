@@ -1,4 +1,4 @@
-Basic Python Programs to illustarte the python programming Concepts:
+Basic Python Programs to illustarte the python programming concepts:
 ===================================================================
 
 1) args and kwargs
